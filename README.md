@@ -9,7 +9,7 @@ This project mainly uses sparkstreaming + kafka + python or scala to simulate re
 File explanation
 -----------------------------------
 * projetspark: Total folder
-    * sparkstreaming: python running kafka
+    * spark-streaming: python running kafka
         * producer.py: kafka producer
         * consumer.py: kafka consumer
     * mycode: code de sparkstreaming
